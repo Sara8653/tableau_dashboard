@@ -10,3 +10,8 @@ A data-driven Tableau dashboard for monitoring machine conditions, utilizing rea
 @using that information, make another visualization to know the exact numbers
 
 @using first chart as a filter , on the second chart to know details of machine conditions in each brach companies
+
+
+@@@@@@
+HAVE A LOOK ON MY DASHBOARD
+https://public.tableau.com/views/daikibo_data_tableau/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
